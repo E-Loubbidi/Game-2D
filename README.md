@@ -2,6 +2,8 @@
 
 ### Game 2D with JavaFX
 
+#### Lien to a game demo <https://drive.google.com/open?id=15NSR0z-18gUx7Kk3L7Ag5lsWRf8x7u7l>
+
 #### To run the game follow these steps :
 
 > - Create folder named images.
