@@ -9,7 +9,7 @@
 > - Create folder named sounds.
 > - Copy all sounds from sounds1.rar and sounds.rar to this folder sounds.
 > - Open Eclipse and create new project.
-> - Create package named gameV2 and copy all files .java from Game2d.rar to this package.
+> - Create package named gameV2 and copy all files .java from Game2D.rar to this package.
 > Copy the two folders images and sounds to the root of project.
 > - run application.
 
